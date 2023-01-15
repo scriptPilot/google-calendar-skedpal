@@ -62,7 +62,7 @@ Here comes a solution to split any of your calendars into an `Events` and `Timem
    - time maps must be created in SkedPal before
    - [Google Calendar Synchronization Documentation](https://github.com/scriptPilot/google-calendar-synchronization)
 
-5. Save and run the `onCalendarUpdate` function once to grant access to you calendar for this script.
+5. Save and run the `onCalendarUpdate` function once to grant access to your calendar to this script.
    
 6. Create a trigger for function `onCalendarUpdate`, based on calendar updated for your calendar id.
 
