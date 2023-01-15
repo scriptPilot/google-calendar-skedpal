@@ -70,6 +70,15 @@ Here comes a solution to split any of your calendars into an `Events` and `Timem
 
 Manage events in your personal calendar only.
 
+Based on the timemaps definition:
+
+```js
+const timemaps = {
+  '💻': 'Office Work',
+  '🏡': 'Chores'
+}
+```  
+
 When you not prefix or suffiy any emoji:
   - an event is created in the events calendar as "busy"
 
