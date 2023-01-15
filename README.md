@@ -79,7 +79,7 @@ const timemaps = {
 }
 ```  
 
-When you not prefix or suffiy any emoji:
+When you not prefix or suffix any emoji:
   - an event is created in the events calendar as "busy"
 
 <img width="1041" alt="Bildschirmfoto 2023-01-15 um 14 48 07" src="https://user-images.githubusercontent.com/19615586/212544546-e9a97b3e-4e6c-4691-a6ef-8d3293f0ee40.png">
