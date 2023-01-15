@@ -8,7 +8,7 @@ Based on the [Google Calendar Corrections](https://github.com/scriptPilot/google
 
 SkedPal supports to [fill time maps based on calendar events](https://skedpal.com/knowledge-base/amending-a-time-map-with-calendar-events/). Downside of this solution is that the required format `Event [Timemap Name]` is cluttering the calendar and and time-consuming to write and the events are not presented anymore within SkedPal.
 
-Here comes a solution to split any of your calendars into an `Events` and `Timemaps` calendars to be used in SkedPal - simply by adding an emoji.
+Here comes a solution to split any of your calendars into an `Events` and `Timemaps` calendars to be used in SkedPal - simply by adding an emoji 🥳.
 
 1. Setup the [Google Calendar Synchronization](https://github.com/scriptPilot/google-calendar-synchronization).
 
