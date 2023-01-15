@@ -64,7 +64,7 @@ Here comes a solution to split any of your calendars into an `Events` and `Timem
 
 5. Save and run the `onCalendarUpdate` function once to grant access to your calendar to this script.
    
-6. Create a trigger for the function `onCalendarUpdate`, based on calendar updated for your calendar id.
+6. Create a trigger for the function `onCalendarUpdate`, based on calendar updates for your calendar id.
 
 ### Usage
 
