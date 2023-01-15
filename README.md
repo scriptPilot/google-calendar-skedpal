@@ -14,7 +14,7 @@ Here comes a solution to split any of your calendars into an `Events` and `Timem
 
 2. Create two more calendars in Google for the Events and Timemaps.
 
-    ![Calendar Selection](docs/calendarSelection.png)
+    ![Calendar Selection](docs/calendars.png)
 
 3. Copy and paste this code to your `onCalendarUpdate` script file:
 
