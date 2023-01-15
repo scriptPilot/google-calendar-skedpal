@@ -6,7 +6,7 @@ Based on the [Google Calendar Corrections](https://github.com/scriptPilot/google
 
 ## Example: Timemaps Calendar
 
-SkedPal supports to fill time maps based on calendar events. Downside of this solution is that the required format `Event [Timemap Name]` are cluttering the calendar and the events are not presented anymore within SkedPal. It would be better to have the event sidelined
+SkedPal supports to fill time maps based on calendar events. Downside of this solution is that the required format `Event [Timemap Name]` is cluttering the calendar and the events are not presented anymore within SkedPal. It would be better to have the event sidelined
 
 Here comes a solution to split any of your calendars into an `Events` and `Timemaps` calendars to be used in SkedPal.
 
