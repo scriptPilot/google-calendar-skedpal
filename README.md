@@ -79,7 +79,7 @@ When you prefix or suffix a configured emoji:
   - an event is created in the events calendar as "free" (to allow task to be scheduled)
   - an event is created in the timemaps calendar to be used by SkedPal to extend the timemap
 
-<img width="1051" alt="Bildschirmfoto 2023-01-15 um 14 48 28" src="https://user-images.githubusercontent.com/19615586/212544563-dc6fe5fe-00e4-491b-a3d8-2e9513fc204b.png">
+<img width="1058" alt="Bildschirmfoto 2023-01-15 um 14 51 22" src="https://user-images.githubusercontent.com/19615586/212544713-bc66fe94-a0de-4f21-be4c-c82648170b3d.png">
 
 When you create an event only with an emoji in the summary:
   - an event is created in the timemaps calendar to be used by SkedPal to extend the timemap
