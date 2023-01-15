@@ -10,7 +10,7 @@ SkedPal supports to fill time maps based on calendar events. Downside of this so
 
 Here comes a solution to split any of your calendars into an `Events` and `Timemaps` calendars to be used in SkedPal.
 
-1. Setup the [Google Calendar Synchronization](https://github.com/scriptPilot/google-calendar-synchronization)
+1. Setup the [Google Calendar Synchronization](https://github.com/scriptPilot/google-calendar-synchronization).
 
 2. Create two more calendars in Google for the Events and Timemaps.
 
@@ -58,7 +58,7 @@ Here comes a solution to split any of your calendars into an `Events` and `Timem
     }
     ```
     
-4. Modify the timemaps, calendar names and other options according to your needs
+4. Modify the timemaps, calendar names and other options according to your needs.
    - time maps must be created in SkedPal before
    - [Google Calendar Synchronization Documentation](https://github.com/scriptPilot/google-calendar-synchronization)
 
